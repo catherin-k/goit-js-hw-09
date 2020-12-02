@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/catherin-k/goit-js-hw-09/issues"
   },
-  "homepage": "https://github.com/catherin-k/goit-js-hw-09#readme"
+  "homepage": "https://github.com/catherin-k/goit-js-hw-09#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "webpack-merge": "^5.1.4"
+  }
 }
