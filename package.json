@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/catherin-k/goit-js-hw-09/issues"
   },
-  "homepage": "https://github.com/catherin-k/goit-js-hw-09#readme",
+  "homepage": "catherin-k.github.io/goit-js-hw-09/",
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
